@@ -1,0 +1,162 @@
+.wrapper {
+	height: 800px;
+	width: 800px;
+	background-color: #a99c9c;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	overflow: auto;
+
+}
+
+
+.container {
+	height: 640px;
+	width: 600px;
+	margin: 0 auto;
+}
+
+table {
+	width: 600px;
+	height: 640px;
+}
+
+td {
+	height: 32px;
+	width: 32px;
+}
+
+.object_1 {
+	border-right: 9px solid black;
+	border-bottom: 9px solid black;
+	background-color: white;
+	height: 64px;
+}
+
+.object_2 {
+	border-right: 9px solid black;
+	border-bottom: 9px solid black;
+	background-color: white;
+}
+
+.object_3 {
+	border-bottom: 9px solid black;
+	width: 160px;
+	background-image: url('background/back_yellow.png');
+}
+
+.object_4 {
+	border-right: 9px solid black;
+	border-bottom: 9px solid black;
+	width: 64px;
+	background-color: white;
+}
+
+.object_5 {
+	border-right: 9px solid black;
+	border-bottom: 9px solid black;
+	background-color: white;
+	width: 64px;
+}
+
+.object_6 {
+	border-right: 9px solid black;
+	background-image: url('background/back_yellow.png');
+}
+
+.object_7 {
+	border-right: 9px solid black;
+	border-bottom: 9px solid black;
+	height: 256px;
+	width: 256px;
+	background-image: url('background/back_red.png');
+}
+
+.object_8 {
+	border-right: 9px solid black;
+	border-bottom: 9px solid black;
+	width: 64px;
+	height: 64px;
+	background-image: url('background/back_black.png');
+}
+
+.object_9 {
+	border-right: 9px solid black;
+	border-bottom: 9px solid black;
+	width: 64px;
+	height: 64px;
+	background-image: url('background/back_black.png');
+}
+
+.object_10 {
+	border-right: 9px solid  black;
+	border-bottom: 9px solid black;
+	width: 64px;
+	height: 64px;
+	background-image: url('background/back_black.png');
+}
+
+.object_11 {
+	border-right: 9px solid black;
+	border-bottom: 9px solid black;
+	width: 64px;
+	height: 64px;
+	background-image: url('background/back_black.png');
+}
+
+.object_12 {
+	border-right: 9px solid black;
+	background-color: white;
+}
+
+.object_13 {
+	border-right: 9px solid black;
+	border-bottom: 9px solid black;
+	width: 128px;
+	background-color: white;
+	height: 64px;
+}
+
+.object_14 {
+	border-top: 9px solid black;
+	border-bottom: 9px solid black;
+	background-color: white;
+}
+
+.object_15 {
+	border-bottom: 9px solid black;
+	background-image: url('background/back_yellow.png');
+}
+
+.object_16 {
+	border-right: 9px solid black;
+	width: 64px;
+	background-color: white;
+}
+
+.object_17 {
+	border-top: 9px solid black;
+	width: 96px;
+	background-color: white;
+}
+
+.object_18 {
+	border-bottom: 9px solid black;
+	border-right: 9px solid black;
+	width: 128px;
+	height: 64px;
+	background-color: white;
+}
+
+.object_19 {
+	border-right: 9px solid black;
+	height: 32px;
+	background-image: url('background/back_black.png');
+}
+
+.object_20 {
+	background-image: url('background/back_blue.png');
+}
+
+
