@@ -1,162 +1,288 @@
-.wrapper {
-	height: 800px;
-	width: 800px;
-	background-color: #a99c9c;
-	margin: 0 auto;
+.container {
+	height: 900px;
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	overflow: auto;
-
-}
-
-
-.container {
-	height: 640px;
-	width: 600px;
-	margin: 0 auto;
+	background: #2b1616;
 }
 
 table {
-	width: 600px;
-	height: 640px;
+	margin: auto;
+	height: 500px;
+	width: 540px;
+	background: white;
 }
 
 td {
 	height: 32px;
-	width: 32px;
-}
-
-.object_1 {
-	border-right: 9px solid black;
-	border-bottom: 9px solid black;
-	background-color: white;
-	height: 64px;
-}
-
-.object_2 {
-	border-right: 9px solid black;
-	border-bottom: 9px solid black;
-	background-color: white;
-}
-
-.object_3 {
-	border-bottom: 9px solid black;
-	width: 160px;
-	background-image: url('background/back_yellow.png');
-}
-
-.object_4 {
-	border-right: 9px solid black;
-	border-bottom: 9px solid black;
 	width: 64px;
-	background-color: white;
+	color: transparent;
 }
 
-.object_5 {
+.add_cell {
+	border-right: 9px solid black;
+}
+
+.add_cell_2 {
+	background-image: url('Layers/background/yellow.png');
+}
+
+.union_3 {
+	background-image: url('Layers/background/yellow.png');
+}
+
+.union_4 {
 	border-right: 9px solid black;
 	border-bottom: 9px solid black;
-	background-color: white;
-	width: 64px;
 }
 
-.object_6 {
-	border-right: 9px solid black;
-	background-image: url('background/back_yellow.png');
-}
-
-.object_7 {
+.union_5 {
 	border-right: 9px solid black;
 	border-bottom: 9px solid black;
-	height: 256px;
-	width: 256px;
-	background-image: url('background/back_red.png');
 }
 
-.object_8 {
+.union_6 {
+	border-bottom: 9px solid black;
+	background-image: url('Layers/background/yellow.png');
+}
+
+.union_7 {
+	border-right: 9px solid black;
+	
+}
+
+.union_8 {
+	border-right: 9px solid black;
+	background-image: url('Layers/background/red.png');
+}
+
+.union_9 {
+	background-image: url('Layers/background/yellow.png');
+}
+
+
+.union_10 {
+	border-right: 9px solid black;
+	
+}
+
+.union_11 {
+	border-right: 9px solid black;
+	background-image: url('Layers/background/red.png');
+}
+
+.union_12 {
+	background-image: url('Layers/background/yellow.png');
+}
+
+.union_13 {
+	border-right: 9px solid black;
+}
+
+.union_14 {
+	border-right: 9px solid black;
+	background-image: url('Layers/background/red.png');
+}
+
+.union_15 {
+	background-image: url('Layers/background/yellow.png');
+}
+
+.union_16 {
 	border-right: 9px solid black;
 	border-bottom: 9px solid black;
-	width: 64px;
-	height: 64px;
-	background-image: url('background/back_black.png');
 }
 
-.object_9 {
+.union_17 {
+	border-right: 9px solid black;
+	background-image: url('Layers/background/red.png');
+}
+
+.union_18 {
+	border-bottom: 9px solid black;
+	background-image: url('Layers/background/yellow.png');
+}
+
+.union_19 {
+	border-right: 9px solid black;
+}
+
+.union_20 {
+	border-right: 9px solid black;
+	background-image: url('Layers/background/red.png');
+}
+
+.union_21 {
+	border-right: 9px solid black;
+}
+
+.union_23 {
+	border-right: 9px solid black;
+}
+
+.union_24 {
+	border-right: 9px solid black;
+	background-image: url('Layers/background/red.png');
+}
+
+.union_25 {
+	border-right: 9px solid black;
+}
+
+.union_27 {
+	border-right: 9px solid black;
+}
+
+.union_28 {
+	border-right: 9px solid black;
+	background-image: url('Layers/background/red.png');
+}
+
+.union_29 {
+	border-right: 9px solid black;
+}
+
+.union_31 {
+	border-right: 9px solid black;
+}
+
+.union_32 {
 	border-right: 9px solid black;
 	border-bottom: 9px solid black;
-	width: 64px;
-	height: 64px;
-	background-image: url('background/back_black.png');
+	background-image: url('Layers/background/red.png');
 }
 
-.object_10 {
-	border-right: 9px solid  black;
-	border-bottom: 9px solid black;
-	width: 64px;
-	height: 64px;
-	background-image: url('background/back_black.png');
-}
-
-.object_11 {
+.union_33 {
 	border-right: 9px solid black;
 	border-bottom: 9px solid black;
-	width: 64px;
-	height: 64px;
-	background-image: url('background/back_black.png');
 }
 
-.object_12 {
+.union_34 {
+	border-bottom: 9px solid black;
+}
+
+.union_35 {
 	border-right: 9px solid black;
-	background-color: white;
 }
 
-.object_13 {
+.union_36 {
+	border-right: 9px solid black;
+	background-image: url('Layers/background/small_black.png');
+}
+
+.union_37 {
+	border-right: 9px solid black;
+	background-image: url('Layers/background/small_black.png');
+}
+
+.union_38 {
+	border-right: 9px solid black;
+}
+
+.union_41 {
 	border-right: 9px solid black;
 	border-bottom: 9px solid black;
-	width: 128px;
-	background-color: white;
-	height: 64px;
 }
 
-.object_14 {
-	border-top: 9px solid black;
-	border-bottom: 9px solid black;
-	background-color: white;
-}
-
-.object_15 {
-	border-bottom: 9px solid black;
-	background-image: url('background/back_yellow.png');
-}
-
-.object_16 {
+.union_42 {
 	border-right: 9px solid black;
-	width: 64px;
-	background-color: white;
-}
-
-.object_17 {
-	border-top: 9px solid black;
-	width: 96px;
-	background-color: white;
-}
-
-.object_18 {
 	border-bottom: 9px solid black;
+	background-image: url('Layers/background/small_black.png');
+}
+
+.union_43 {
 	border-right: 9px solid black;
-	width: 128px;
-	height: 64px;
-	background-color: white;
+	border-bottom: 9px solid black;
+	background-image: url('Layers/background/small_black.png');
 }
 
-.object_19 {
+.union_44 {
 	border-right: 9px solid black;
-	height: 32px;
-	background-image: url('background/back_black.png');
+	border-bottom: 9px solid black;
 }
 
-.object_20 {
-	background-image: url('background/back_blue.png');
+.union_45 {
+	border-bottom: 9px solid black;
 }
 
+.union_46 {
+	border-bottom: 9px solid black;
+}
 
+.union_47 {
+	border-right: 9px solid black;
+	background-image: url('Layers/background/small_yellow.png');
+}
+
+.union_48 {
+	border-right: 9px solid black;
+	background-image: url('Layers/background/small_black.png');
+}
+
+.union_49 {
+	border-right: 9px solid black;
+	background-image: url('Layers/background/small_black.png');
+}
+
+.union_50 {
+	border-right: 9px solid black;
+}
+
+.union_51 {
+	background-image: url('Layers/background/blue.png');
+}
+
+.union_53 {
+	border-right: 9px solid black;
+	background-image: url('Layers/background/small_yellow.png');
+}
+
+.union_54 {
+	border-right: 9px solid black;
+	border-bottom: 9px solid black;
+	background-image: url('Layers/background/small_black.png');
+}
+
+.union_55 {
+	border-right: 9px solid black;
+	border-bottom: 9px solid black;
+	background-image: url('Layers/background/small_black.png');
+}
+
+.union_56 {
+	border-right: 9px solid black;
+	border-bottom: 9px solid black;
+}
+
+.union_57 {
+	background-image: url('Layers/background/blue.png');
+}
+
+.union_59 {
+	border-right: 9px solid black;
+	background-image: url('Layers/background/small_yellow.png');
+}
+
+.union_60 {
+	border-right: 9px solid black;
+}
+
+.union_61 {
+	border-right: 9px solid black;
+	border-bottom: 9px solid black;
+	background-image: url('Layers/background/black.png');
+}
+
+.union_62 {
+	border-bottom: 9px solid black;
+	background-image: url('Layers/background/blue.png');
+}
+
+.union_63 {
+	border-right: 9px solid black;
+	background-image: url('Layers/background/small_yellow.png');
+}
+
+.union_64 {
+	border-right: 9px solid black;
+}
